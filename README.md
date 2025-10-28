@@ -1,7 +1,7 @@
 # Hi, I’m Ben.
 
 I am a DPhil (PhD) student in Mathematics at the University of Oxford, working within the Wolfson Centre for Mathematical Biology (WCMB).  
-My research focuses on developing mathematical models to better understand complex biological systems.
+My research focuses on developing mathematical models to understand complex biological systems.
 
 ---
 
@@ -26,4 +26,4 @@ I am currently building and analysing mathematical models that explore biologica
 
 ## Connect
 - [University of Oxford WCMB](https://www.maths.ox.ac.uk/people/benjamin.stephens)
-- [Email me](benjamin.stephens@maths.ox.ac.uk)
+- [Email me](mailto:benjamin.stephens@maths.ox.ac.uk)
