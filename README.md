@@ -6,10 +6,9 @@ My research focuses on developing mathematical models to understand complex biol
 ---
 
 ## Research Interests
-- Mathematical modelling of biological processes  
-- Differential equation models (ODEs, PDEs)  
-- Agent-based modelling  
-- Theoretical and computational biology  
+- Developing stochastic and continuum models to understand how cell-cycle synchrony is maintained and progressively lost over many cell divisions.
+- Modelling T cell resistance to glucocorticoid treatments using compartment models based on flow cytometry data.
+- Understanding how fluid flow governs CCR7-mediated dendritic cell migration.
 
 ---
 
