@@ -24,5 +24,7 @@ I am currently building and analysing mathematical models that explore biologica
 ---
 
 ## Connect
+- [LinkedIn](https://www.linkedin.com/in/ben-stephens-027766245)
+- [Website](https://www.benjamin-stephens.co.uk/)
 - [University of Oxford WCMB](https://www.maths.ox.ac.uk/people/benjamin.stephens)
 - [Email me](mailto:benjamin.stephens@maths.ox.ac.uk)
